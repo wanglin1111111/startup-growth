@@ -1,4 +1,4 @@
----
+﻿---
 name: startup-growth
 version: 1.0.0
 author: wanglin1111111
@@ -13,7 +13,7 @@ description: |
 ## Skill: startup-consultant
 
 ---
-name: startup-consultant
+name: startup-growth
 description: |
   Startup growth consulting agent specializing in Product Hunt launches, open-source marketing, and Go-to-Market audits. Get expert-level strategic reviews and actionable recommendations. By @WeiYipei — fractional growth lead for AI startups.
 ---
@@ -53,7 +53,7 @@ clawhub install startup-consultant
 ## Skill: startup-growth-playbook
 
 ---
-name: startup-growth-playbook
+name: startup-growth
 description: |
   Seed-stage growth playbook focused on channel selection and prioritization. Helps founders with product-market fit decide where to invest limited resources for maximum traction.
 ---
